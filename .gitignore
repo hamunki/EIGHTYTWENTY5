@@ -1,6 +1,7 @@
 # Global ignores
 ################
 .static/
+.compiled/
 
 # Markdown Ignore
 #################
